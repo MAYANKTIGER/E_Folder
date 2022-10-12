@@ -1,0 +1,18 @@
+PAAS : Platform as service, we take care of onle hte data and the ML model(Applicatoin)
+rest of the part will handle by the Server(Client that provide that server)
+
+rest part; 
+ Runtime 
+ os 
+ Serice 
+ storage 
+ networking
+
+PaaS Servers: 
+Heroku
+AWS Elastic Beanstalk
+Windows Azure
+Force.com
+OpenShift
+Apache Stratos
+Magento Commerce

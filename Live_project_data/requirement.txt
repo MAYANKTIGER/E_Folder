@@ -1,0 +1,19 @@
+Topic: Poverty and corruption in Africa Research Question I have established 
+1. What is the causality between poverty and corruption? ( relationship between)
+2. To what extent is corruption a driving force for poverty in Africa? 
+3. Does poverty lead to corruption? 
+4. How does corruption affect human development? 
+5. Does income inequality caused by corruption lead to a higher rate of poverty? 
+I need your assistance with setting up a hypothesis and carrying out Statistical Analysis and Discussion/ conclusion. 
+* Set up Hypothesis * Discuss and justify analytical techniques to be utilised. 
+* Findings • Using Python, report your findings and test hypotheses • 
+This section should include at least: 
+i. Key descriptive statistics with interpretation 
+ii. Data visualisations with interpretation 
+iii. Statistical analysis (e.g. correlation test, regression) and/or
+machine learning model (i.e. supervised/unsupervised machine learning) with interpretation 
+* Discussion/Conclusion 
+• Compare the findings from your research with that of the literature. 
+Discuss any consistencies / conflicting information between your research and the literature. 
+• Discuss any implications based on your findings. 
+• Discuss any limitations of your research & recommendations for future study
